@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'hello', to: 'static#hello'
+  get 'hello_world', to: 'static#hello'
 end
